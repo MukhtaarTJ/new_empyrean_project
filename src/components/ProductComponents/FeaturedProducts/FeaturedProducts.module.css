@@ -1,0 +1,42 @@
+.container{
+    background: #b1e0e2;
+}
+.card_title{
+    font-family: "poppins";
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    
+    
+}
+.card_text{
+    font-family: "poppins";
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    text-align: center;
+    width: 284px;
+}
+.body{
+    
+}
+.smallcard {
+    /* padding-top: 0px; */
+    height: 200px !important;
+    border: 2px solid black !important;
+    
+  }
+  
+  .smalltitle {
+    margin-top: -30px;
+    font-size: 14px;
+  }
+  
+  .small-screen-text {
+    font-size: 14px;
+  }
+  .btn{
+    background-color: #c9ab96 !important;
+    border: 2px solid #c9ab96;
+  }
+  

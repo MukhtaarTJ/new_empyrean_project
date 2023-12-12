@@ -1,0 +1,45 @@
+.about_background{
+    background-color: #f1e9e4;
+}
+.about_container{
+  padding: 180px 150px 120px 150px;
+
+}
+.hero_img{
+  width: 468px;
+  height: 500px;
+}
+.imageContainer {
+    max-width: 100%;
+  }
+  .textContainer {
+    margin-top: -80px;
+    /* padding-bottom: 30px; */
+  }
+  .paragraph_text{
+    font-family: "poppins";
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: justify;
+  }
+  
+@media (max-width: 767px) {
+    .imageContainer {
+    
+      text-align: center; 
+    }
+    .hero_img{
+      width: 310px;
+      height: 290px;
+    }
+.about_container{
+  padding: 60px 40px;
+
+}
+.textContainer {
+  margin-top: 0px;
+}
+  }
+  

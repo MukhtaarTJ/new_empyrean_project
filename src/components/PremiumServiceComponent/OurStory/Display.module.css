@@ -1,0 +1,12 @@
+.container{
+    background-color: #f1e9e4;
+}
+.text_layout{
+    width: 900px;
+    height: 160px;
+  }
+.container_text{
+    font-size: 500;
+    font-size: 45px;
+    line-height: 54px;
+}

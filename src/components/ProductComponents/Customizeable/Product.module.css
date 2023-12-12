@@ -1,0 +1,15 @@
+.product_card {
+  background-color: rgba(201, 171, 150, 0.26) !important;
+  border: none !important;
+  border-radius: 30px !important;
+  width: 100% !important;
+}
+
+.product_card button {
+  border: none !important;
+  height: 42px !important;
+  padding: 11px 62px !important;
+  background-color: #c9ab96 !important;
+  color: #000000;
+  font-weight: 600;
+}

@@ -1,0 +1,65 @@
+/* Update your Help.module.css file */
+
+.container {
+  background-color: #f1e9e4;
+}
+.text_layout {
+  width: 400px;
+  margin-top: -60px;
+}
+.help_text{
+
+}
+
+.card {
+  background-color: #7acbce96;
+  width: 100%;
+  max-width: 330px;
+  height: 500px;
+  border-radius: 30px;
+  margin-bottom: 45px;
+  background-color: #abd7d7;
+  margin-right: 310px;
+  padding: 20px  0 40px 0;
+}
+.card_2 {
+  background-color: #7acbce96;
+  width: 100%;
+  max-width: 330px;
+  height: 474px;
+  border-radius: 30px;
+  margin-bottom: 45px;
+  background-color: #abd7d7;
+  padding-top: 30px !important;
+  padding-bottom: -10px ;
+
+}
+
+.card_container {
+  margin-left: -90px;
+}
+.first_card {
+  margin-left: 190px;
+}
+.card_container2 {
+  margin-right: -100px !important;
+  margin-left: -150px;
+}
+
+/* Add a media query for smaller screens */
+@media (max-width: 768px) {
+  .card_container,
+  .card_container2,
+  .card {
+    margin-left: 0;
+    margin-right: 0 !important;
+  }
+  .card {
+    padding: 35px 0px 10px 0;
+  }
+  .card_2{
+    padding: 35px 0px 10px 0;
+
+  }
+
+}

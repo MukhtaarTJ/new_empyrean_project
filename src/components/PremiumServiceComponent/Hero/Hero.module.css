@@ -1,0 +1,40 @@
+.video_container{
+  width: 374px;
+  height: 352px;
+  background-color: #002039;
+}
+.container{
+  margin-top: 200px;
+  margin-bottom: 250px;
+}
+
+.alert_layout{
+  width: 180px !important;
+  height: 30px !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important; 
+
+}
+.alert_text{
+  font-size: 10px;
+  font-weight: 600;
+  line-height: 30px;
+  text-align: center;
+}
+.couple_video{
+  width: 160px;
+  height: 160px;
+}
+.consultation_layout{
+  /* width: 290px; */
+  /* height: 30px; */
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.consultation_text{
+  font-weight: 500;
+  size: 15px !important;
+  line-height: 30px;
+  text-transform: uppercase;
+}

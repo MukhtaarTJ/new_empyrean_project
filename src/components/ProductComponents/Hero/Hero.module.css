@@ -1,0 +1,23 @@
+
+.hero_link {
+    margin-top: 100px;
+  }
+  
+.btn_link {
+    padding: 11px 62px;
+    text-decoration: none;
+    color: #000000;
+    background-color: #c9ab96;
+  }
+  
+  .watch_link {
+    margin-left: 20px;
+    color: #000000;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  
+  .product_img{
+    width: 400px;
+    height: 500px;
+  }

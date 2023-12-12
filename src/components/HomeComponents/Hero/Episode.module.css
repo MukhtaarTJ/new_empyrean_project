@@ -1,0 +1,40 @@
+.episode_container {
+  background: #c9ab96ab;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-bottom: 50px;
+  margin-top: 80px;
+}
+
+.episode_row {
+  display: flex;
+  justify-content: space-around;
+  gap: 50px;
+  max-width: 60%;
+  margin: 0 auto;
+  height: 70vh;
+  align-items: center;
+}
+
+.episode_item1 {
+  margin-right: -200px;
+}
+.episode_item2 {
+  z-index: 1;
+}
+.episode_item3 {
+  margin-left: -200px;
+}
+
+@media only screen and (max-width: 991px) {
+  .episode_container {
+    padding-top: 10px;
+  }
+  .episode_container h2{
+    font-weight: 600;
+    font-size: 26px;
+  }
+  .episode_row{
+    margin: -160px auto;
+  }
+}
